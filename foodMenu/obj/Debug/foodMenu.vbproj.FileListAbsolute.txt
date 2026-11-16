@@ -1,0 +1,12 @@
+C:\Users\Codex\Desktop\foodMenu\foodMenu\obj\Debug\foodMenu.vbproj.AssemblyReference.cache
+C:\Users\Codex\Desktop\foodMenu\foodMenu\obj\Debug\foodMenu.Resources.resources
+C:\Users\Codex\Desktop\foodMenu\foodMenu\obj\Debug\foodMenu.vbproj.GenerateResource.cache
+C:\Users\Codex\Desktop\foodMenu\foodMenu\obj\Debug\foodMenu.vbproj.CoreCompileInputs.cache
+C:\Users\Codex\Desktop\foodMenu\foodMenu\bin\Debug\foodMenu.exe.config
+C:\Users\Codex\Desktop\foodMenu\foodMenu\bin\Debug\foodMenu.exe
+C:\Users\Codex\Desktop\foodMenu\foodMenu\bin\Debug\foodMenu.pdb
+C:\Users\Codex\Desktop\foodMenu\foodMenu\bin\Debug\foodMenu.xml
+C:\Users\Codex\Desktop\foodMenu\foodMenu\obj\Debug\foodMenu.Form1.resources
+C:\Users\Codex\Desktop\foodMenu\foodMenu\obj\Debug\foodMenu.exe
+C:\Users\Codex\Desktop\foodMenu\foodMenu\obj\Debug\foodMenu.xml
+C:\Users\Codex\Desktop\foodMenu\foodMenu\obj\Debug\foodMenu.pdb
